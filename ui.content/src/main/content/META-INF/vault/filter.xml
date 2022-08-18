@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/vsn" mode="merge"/>
+    <filter root="/content/vsn" mode="merge"/>
+    <filter root="/content/dam/vsn/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/vsn" mode="merge"/>
+</workspaceFilter>
